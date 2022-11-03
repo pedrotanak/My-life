@@ -1,0 +1,37 @@
+.div-viagem img {
+    width: 50%;
+}
+
+.div-viagem p {
+    margin: 10px;
+    font-size: 30px;
+}
+
+.texto-filme {
+    font-size: 30px;
+
+}
+
+.titulo-do-filme {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.titulo-do-filme i {
+    float: right;
+}
+
+.texto-filme span {
+    color: orange
+}
+
+.texto-filme h5 {
+    font-size: 40px
+}
+.Livros{
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
